@@ -1,0 +1,5 @@
+in my.cnf
+under [mysql]
+add default-character-set = utf8
+under [mysqld]
+add character_set_server = utf8
